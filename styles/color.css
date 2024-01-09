@@ -33,7 +33,7 @@ header {
     background-position: center;
     border-radius: 15px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -99,5 +99,5 @@ header {
 
 footer {
     background: #070211;
-    height: 300px;
+    height: 400px;
 }
