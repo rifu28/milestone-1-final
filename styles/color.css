@@ -84,6 +84,10 @@ header {
     grid-template-columns: 350px 3fr 3fr;
 }
 
+.shopping:hover {
+    background-color: brown;
+}
+
 .part6 {
     background: rgba(255, 0, 0, 0.05);
     height: 300px;
